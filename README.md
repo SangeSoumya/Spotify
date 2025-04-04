@@ -22,7 +22,7 @@ A simple front-end **Spotify web player clone** built using **HTML** and **CSS**
 
 ## 🌐 Live Demo
 > Replace the link below with your GitHub Pages link after hosting  
-🔗 [View Live Site](https://your-username.github.io/Spotify/)
+🔗 [View Live Site](https://SangeSoumya.github.io/Spotify/)
 
 ## 🛠️ Built With
 - HTML5  
