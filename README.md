@@ -20,10 +20,6 @@ A simple front-end **Spotify web player clone** built using **HTML** and **CSS**
 3. **Open in browser**:  
    Double-click `index.html` or use Live Server in VS Code.
 
-## 🌐 Live Demo
-> Replace the link below with your GitHub Pages link after hosting  
-🔗 [View Live Site](https://SangeSoumya.github.io/Spotify/)
-
 ## 🛠️ Built With
 - HTML5  
 - CSS3
