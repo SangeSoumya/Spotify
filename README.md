@@ -4,6 +4,12 @@ A simple front-end **Spotify web player clone** built using **HTML** and **CSS**
 
 ## 📁 Project Structure
 
+Spotify/ ├── index.html # Main HTML page
+├── style.css # Styling file
+└── assets/ # Folder containing images and icons
+├── image1.jpg
+└── ...other images
+
 ## 🚀 Features
 - Responsive and clean UI  
 - Static front-end replica of Spotify  
